@@ -11,6 +11,7 @@ int main()
 
     average_score =(math +physics + chemistry)/3;
 
+    cout << "Good Morning" <<endl;
     cout << "Your Math score is " << math <<endl;
     cout << "Your physics score is " << physics <<endl;
     cout << "And your chemistry score is " <<chemistry <<endl;
