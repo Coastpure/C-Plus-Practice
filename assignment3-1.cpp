@@ -9,7 +9,7 @@ int main()
     physics = 85;
     chemistry = 87;
 
-    average_score = average_score =(math +physics + chemistry)/3;
+    average_score =(math +physics + chemistry)/3;
 
     cout << "Your Math score is " << math <<endl;
     cout << "Your physics score is " << physics <<endl;
